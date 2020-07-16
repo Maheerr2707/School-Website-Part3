@@ -1,0 +1,39 @@
+h1{color:red;
+    padding-left:30px;
+}
+
+h2{
+   background-color:#808000;
+   padding-left:30px
+}
+
+.header *{
+    border : solid;
+}
+.header{
+    background-color:#808080;
+    display:flex;
+    justify-content:space-between
+}
+
+h3{
+    padding-right:87px;
+    padding-left:87px;
+}
+
+.Menu{
+  background-color:#FFFF00;
+}
+
+.Grid{
+    flex-shrink : 3;
+    justify-content:space-between
+}
+
+a:link{
+    color:#070770;
+}
+
+a:visited{
+    color:#FF5733;
+}
